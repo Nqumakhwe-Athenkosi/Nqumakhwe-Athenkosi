@@ -1,12 +1,11 @@
 ## Hi, I'm Nqumakhwe Athenkosi  👋
-- I am junior web developer and a Computer Sciences Honors student
 
 🎓 BSc Computer Science & Physics Graduate (University of Fort Hare)  
 💻 Front-End Developer | Junior Software Engineer  
 🌐 Passionate about Web Development, Networking & Problem Solving  
-- 🎓 Completed BSc in Computer Science & Physics (2024)
-- 🎓 Currently pursuing Honours
-- 🌱 Learning advanced software engineering and networking concepts
+🎓 Completed BSc in Computer Science & Physics (2024)
+🎓 Currently pursuing Honours
+ 🌱 Learning advanced software engineering and networking concepts
 
   
 
