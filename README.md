@@ -1,5 +1,5 @@
 ## Hi, I'm Nqumakhwe Athenkosi  👋
-- I am junior web developer and a Computer Sciences student
+- I am junior web developer and a Computer Sciences Honors student
   
 
 
