@@ -1,157 +1,135 @@
-# 👋 Hi, I'm Athenkosi Nqumakhwe
+# Hi, I'm Nqumakhwe Athenkosi 👋
 
-**Computer Science Honours Student | Software Developer | Data Enthusiast**  
-📍 Alice, South Africa
+I am a Computer Science Honours student at the University of Fort Hare, a software developer, and a first-year Physics tutor.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nqumakhwe--athenkosi.netlify.app-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://nqumakhwe-athenkosi.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/athenkosi-nqumakhwe-265297373)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nqumakhwe-Athenkosi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nqumakhweathenkosi@gmail.com)
+I completed my BSc in Computer Science and Physics and I am currently continuing with Honours in Computer Science.
 
----
+I enjoy building practical software and learning through real projects. My work includes web development, Android applications, databases, data analysis, networking and reinforcement learning.
 
-## 🧠 About Me
+## What I'm currently working on
 
-I'm a **Computer Science & Physics graduate** and current **Honours student in Computer Science** at the University of Fort Hare. I build practical, real‑world applications — from Android safety apps to urban data clustering tools.
+- Building a full-stack e-commerce clothing store using React, Java, Spring Boot and PostgreSQL.
+- Developing and improving TutorConnect SA, a tutoring booking and management platform.
+- Completing my Computer Science Honours research in reinforcement learning and software-defined networking.
+- Tutoring first-year Physics students at the University of Fort Hare.
 
-I believe technology should **solve real problems**. Whether it's helping students book tutoring sessions, alerting campus security in emergencies, or helping city planners understand urban patterns, I build with purpose.
+## Tech I work with
 
-🔭 **Currently:** Honours in Computer Science (2026)  
-🌱 **Learning:** Advanced machine learning, cloud deployment, geospatial analysis  
-🤝 **Open to:** Graduate software engineering, data science, Web Development, or IT support roles (2026)
+**Programming**
 
----
+`Python` `Java` `JavaScript` `C++`
 
-## 📂 Featured Projects
+**Web Development**
 
-> *Every repository follows a consistent, recruiter‑friendly structure with tech badges, setup instructions, and feature lists.*
+`HTML` `CSS` `React` `Spring Boot` `REST APIs`
 
-### 🏙️ Urban Clustering
+**Databases**
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-DataFrame-green.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Clustering-orange.svg)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial-darkgreen.svg)
+`PostgreSQL` `MySQL` `Firebase` `Firestore` `SQLite`
 
-Applies K‑Means and DBSCAN to urban spatial data — population density, land use, infrastructure — to identify patterns for city planning.
+**Data & Machine Learning**
 
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/urban-clustering)
+`Pandas` `Scikit-learn` `GeoPandas` `Matplotlib`
 
----
+**Mobile**
 
-### 🚨 CampusControlAlert
+`Android` `Java` `Kotlin` `Firebase`
 
-![Android](https://img.shields.io/badge/Android-Java/Kotlin-green.svg)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%2FDB-orange.svg)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-API-blue.svg)
+**Networking**
 
-Android emergency alert app with live GPS location sharing, push notifications, and role‑based access for campus security.
+`Mininet` `ONOS` `Open vSwitch` `Wireshark` `Cisco Packet Tracer`
 
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/CampusControlAlert)
+**Tools**
 
----
+`Git` `GitHub` `Maven` `Netlify`
 
-### 📚 TutorConnect
+## Selected Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-Structure-orange.svg)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-yellow.svg)
-![Netlify](https://img.shields.io/badge/Netlify-Deployed-green.svg)
+### TutorConnect SA
 
-Tutoring scheduling platform connecting students with math and physics tutors. Features automated email confirmations and an admin dashboard.
+A web-based tutoring booking platform with a student booking system and admin dashboard.
 
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/tutorconnect) | [🌍 Live Demo](https://nasyninfo.netlify.app)
+**Built with:** HTML, CSS, JavaScript, Firebase, Firestore, EmailJS and Chart.js.
+
+- Booking approval and rejection
+- Status management
+- Email notifications
+- Search and filtering
+- Dashboard statistics and charts
+
+[Live Demo](https://nasyninfo.netlify.app/) | [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/TutorConnect)
 
 ---
 
-### 🔬 LabAccessApp
+### CampusControlAlert
 
-![Android](https://img.shields.io/badge/Android-Java/Kotlin-green.svg)
-![Firebase](https://img.shields.io/badge/Firebase-Auth%2FDB-orange.svg)
-![SQLite](https://img.shields.io/badge/SQLite-Database-blue.svg)
+An Android emergency alert application built around campus safety and communication.
 
-Android app for managing computer lab access with user authentication and real‑time availability tracking.
+**Built with:** Android, Firebase and Google Maps API.
 
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/LabAccessApp)
+- GPS location sharing
+- Push notifications
+- Firebase Authentication
+- Firestore data storage
 
----
-
-### 🧠 Memory Game
-
-![HTML5](https://img.shields.io/badge/HTML5-Structure-orange.svg)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
-
-Browser‑based memory card game with animations, scoring logic, and responsive design.
-
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/Memory-game) | [🌍 Live Demo](https://memory-game-athenkosi.netlify.app)
+[GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/CampusControlAlert)
 
 ---
 
-### 🌐 Portfolio Website
+### Urban Clustering
 
-![HTML5](https://img.shields.io/badge/HTML5-Structure-orange.svg)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blue.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
-![Netlify](https://img.shields.io/badge/Netlify-Live-green.svg)
+A Python data project using clustering methods on urban spatial data.
 
-Responsive personal portfolio showcasing projects, skills, and experience.
+**Built with:** Python, Pandas, Scikit-learn and GeoPandas.
 
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/Athenkosi-Portfolio) | [🌍 Live Demo](https://nqumakhwe-athenkosi.netlify.app)
+- K-Means clustering
+- DBSCAN clustering
+- Spatial data processing
+- Data visualisation
 
----
-
-### 🖥️ Spring Boot Assignment
-
-![Java](https://img.shields.io/badge/Java-17-red.svg)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen.svg)
-![Maven](https://img.shields.io/badge/Maven-Build-blue.svg)
-
-Spring Boot web application demonstrating REST APIs, dependency injection, and MVC architecture.
-
-[🔗 Repository](https://github.com/Nqumakhwe-Athenkosi/SpringAssignment1)
+[GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/urban-clustering)
 
 ---
 
-## 🔧 Tech Stack
+### E-Commerce Clothing Store
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+A full-stack e-commerce system that I am currently developing for a clothing business.
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+**Stack:** React, Java, Spring Boot, PostgreSQL and REST APIs.
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+The project includes product management, stock management, a shopping cart and customer delivery features.
 
----
+**Status:** Under development and not yet published.
 
-## 📊 GitHub Stats
+## Honours Research
 
-![Athenkosi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nqumakhwe-Athenkosi&show_icons=true&theme=default&count_private=true)
+### Self-Evolving Reinforcement Learning Approach for Dynamic vCPU Resource Allocation in SDN-Based Networks
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqumakhwe-Athenkosi&layout=compact&theme=default)
+My current Honours research looks at the use of reinforcement learning for dynamic vCPU resource allocation in software-defined networks.
 
----
+I am working with tools and technologies including:
 
-## 📫 Let's Connect
+`Python` `Reinforcement Learning` `Mininet` `ONOS` `Open vSwitch`
 
-- **Portfolio:** [nqumakhwe-athenkosi.netlify.app](https://nqumakhwe-athenkosi.netlify.app)
-- **LinkedIn:** [linkedin.com/in/athenkosi-nqumakhwe](https://linkedin.com/in/athenkosi-nqumakhwe-265297373)
-- **Email:** [nqumakhweathenkosi@gmail.com](mailto:nqumakhweathenkosi@gmail.com)
-- **GitHub:** [github.com/Nqumakhwe-Athenkosi](https://github.com/Nqumakhwe-Athenkosi)
+## Education
 
----
+**BSc Honours in Computer Science**  
+University of Fort Hare  
+2026 – Present
 
-*Thanks for visiting — feel free to explore my repositories and reach out for collaborations or opportunities!*
+**BSc in Computer Science & Physics**  
+University of Fort Hare  
+2022 – 2024
+
+## Experience
+
+**Physics Tutor — University of Fort Hare**
+
+I tutor first-year Physics students and help them understand difficult concepts, work through problems and prepare for assessments.
+
+## Find me online
+
+- [Portfolio](https://nqumakhwe-athenkosi.netlify.app)
+- [LinkedIn](https://linkedin.com/in/athenkosi-nqumakhwe-265297373)
+- [GitHub](https://github.com/Nqumakhwe-Athenkosi)
+- Email: nqumakhweathenkosi@gmail.com
