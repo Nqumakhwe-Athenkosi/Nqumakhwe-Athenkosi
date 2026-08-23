@@ -1,19 +1,21 @@
 # Hi, I'm Nqumakhwe Athenkosi 👋
 
-I am a Computer Science Honours student at the University of Fort Hare, a software developer, and a first-year Physics tutor.
+**Computer Science Honours Student | Software Developer | Physics Tutor**
 
-I completed my BSc in Computer Science and Physics and I am currently continuing with Honours in Computer Science.
+I enjoy building things, learning how systems work, and turning what I learn into practical projects.
 
-I enjoy building practical software and learning through real projects. My work includes web development, Android applications, databases, data analysis, networking and reinforcement learning.
+I completed my BSc in Computer Science and Physics at the University of Fort Hare and I am currently doing my Honours in Computer Science. Alongside my studies, I work as a first-year Physics tutor at the university.
 
-## What I'm currently working on
+My interests currently sit around software development, data, machine learning and networking.
 
-- Building a full-stack e-commerce clothing store using React, Java, Spring Boot and PostgreSQL.
-- Developing and improving TutorConnect SA, a tutoring booking and management platform.
-- Completing my Computer Science Honours research in reinforcement learning and software-defined networking.
-- Tutoring first-year Physics students at the University of Fort Hare.
+## 👨‍💻 What I'm working on
 
-## Tech I work with
+- 🛒 Building a full-stack e-commerce system with React, Java, Spring Boot and PostgreSQL
+- 🎓 Improving **TutorConnect SA**, my tutoring booking and management platform
+- 🧠 Working on my Computer Science Honours research in reinforcement learning and software-defined networking
+- ⚛️ Tutoring first-year Physics students at the University of Fort Hare
+
+## 🛠️ Technologies I've worked with
 
 **Programming**
 
@@ -25,15 +27,15 @@ I enjoy building practical software and learning through real projects. My work 
 
 **Databases**
 
-`PostgreSQL` `MySQL` `Firebase` `Firestore` `SQLite`
+`PostgreSQL` `MySQL` `Firebase` `Firestore` `SQLite` `H2`
 
 **Data & Machine Learning**
 
 `Pandas` `Scikit-learn` `GeoPandas` `Matplotlib`
 
-**Mobile**
+**Mobile Development**
 
-`Android` `Java` `Kotlin` `Firebase`
+`Android` `Java` `Kotlin` `Firebase` `Room`
 
 **Networking**
 
@@ -43,75 +45,80 @@ I enjoy building practical software and learning through real projects. My work 
 
 `Git` `GitHub` `Maven` `Netlify`
 
-## Selected Projects
+## 🚀 Selected Projects
 
 ### TutorConnect SA
 
-A web-based tutoring booking platform with a student booking system and admin dashboard.
+A web-based tutoring booking and management platform with a student booking system and admin dashboard.
 
 **Built with:** HTML, CSS, JavaScript, Firebase, Firestore, EmailJS and Chart.js.
 
-- Booking approval and rejection
-- Status management
-- Email notifications
-- Search and filtering
-- Dashboard statistics and charts
+Some of the features include booking approval and rejection, status management, email notifications, search and filtering, and dashboard statistics.
 
-[Live Demo](https://nasyninfo.netlify.app/) | [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/TutorConnect)
+🌐 [Live Demo](https://nasyninfo.netlify.app/)  
+💻 [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/TutorConnect-SA)
 
 ---
 
 ### CampusControlAlert
 
-An Android emergency alert application built around campus safety and communication.
+A Java web application built around campus emergency reporting and student safety.
 
-**Built with:** Android, Firebase and Google Maps API.
+**Built with:** Java, Java Servlets, Maven, JDBC and a relational database.
 
-- GPS location sharing
-- Push notifications
-- Firebase Authentication
-- Firestore data storage
+The application includes student registration and login, emergency alert submission, database-backed alert storage and servlet-based request handling.
 
-[GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/CampusControlAlert)
+💻 [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/CampusControlAlert)
 
 ---
 
 ### Urban Clustering
 
-A Python data project using clustering methods on urban spatial data.
+A Python data project that explores patterns in urban data using unsupervised machine learning.
 
-**Built with:** Python, Pandas, Scikit-learn and GeoPandas.
+**Built with:** Python, Pandas, NumPy, Scikit-learn and Matplotlib.
 
-- K-Means clustering
-- DBSCAN clustering
-- Spatial data processing
-- Data visualisation
+The project compares K-Means and DBSCAN clustering, uses silhouette analysis to evaluate K-Means cluster choices, and uses PCA to visualise the resulting groups.
 
-[GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/urban-clustering)
+💻 [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/urban-clustering)
 
 ---
 
-### E-Commerce Clothing Store
+### LabAccessApp
 
-A full-stack e-commerce system that I am currently developing for a clothing business.
+An Android group project for managing and recording student computer lab access.
+
+**Built with:** Android, Java, Firebase, Room and SQLite.
+
+The application includes student data management, lab access logging, access history and local data storage.
+
+💻 [GitHub Repository](https://github.com/Nqumakhwe-Athenkosi/LabAccessApp)
+
+---
+
+### E-Commerce Clothing Store 🚧
+
+I am currently developing a full-stack e-commerce system for a clothing business.
 
 **Stack:** React, Java, Spring Boot, PostgreSQL and REST APIs.
 
-The project includes product management, stock management, a shopping cart and customer delivery features.
+The system includes product and stock management, a shopping cart and customer delivery features.
 
 **Status:** Under development and not yet published.
 
-## Honours Research
+## 🔬 Honours Research
 
 ### Self-Evolving Reinforcement Learning Approach for Dynamic vCPU Resource Allocation in SDN-Based Networks
 
-My current Honours research looks at the use of reinforcement learning for dynamic vCPU resource allocation in software-defined networks.
+My Honours research looks at how reinforcement learning can be used for dynamic vCPU resource allocation in software-defined networks.
 
-I am working with tools and technologies including:
+I am working with technologies and tools including:
 
 `Python` `Reinforcement Learning` `Mininet` `ONOS` `Open vSwitch`
 
-## Education
+This work brings together two areas I am interested in: intelligent systems and computer networks.
+
+## 🎓 Education
 
 **BSc Honours in Computer Science**  
 University of Fort Hare  
@@ -121,15 +128,32 @@ University of Fort Hare
 University of Fort Hare  
 2022 – 2024
 
-## Experience
+## ⚛️ Experience
 
-**Physics Tutor — University of Fort Hare**
+### Physics Tutor — University of Fort Hare
 
-I tutor first-year Physics students and help them understand difficult concepts, work through problems and prepare for assessments.
+I tutor first-year Physics students at the University of Fort Hare.
 
-## Find me online
+The role involves helping students understand difficult concepts, working through problems with them and supporting their preparation for assessments.
 
-- [Portfolio](https://nqumakhwe-athenkosi.netlify.app)
-- [LinkedIn](https://linkedin.com/in/athenkosi-nqumakhwe-265297373)
-- [GitHub](https://github.com/Nqumakhwe-Athenkosi)
-- Email: nqumakhweathenkosi@gmail.com
+## 🌱 Still learning
+
+I don't expect to know everything. I use my projects to keep improving and to get more comfortable working with larger systems.
+
+Right now I am spending more time on:
+
+- Full-stack development
+- Java and Spring Boot
+- React
+- Machine learning
+- Reinforcement learning
+- Software-defined networking
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building useful projects and connecting with people working in technology.
+
+🌐 [Portfolio](https://nqumakhwe-athenkosi.netlify.app)  
+💼 [LinkedIn](https://linkedin.com/in/athenkosi-nqumakhwe-265297373)  
+💻 [GitHub](https://github.com/Nqumakhwe-Athenkosi)  
+📧 nqumakhweathenkosi@gmail.com
