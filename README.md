@@ -239,28 +239,21 @@ The work brings together my interests in:
 
 ## 📊 GitHub Activity
 
-<div align="center">
+I use GitHub to document and improve my projects as I continue learning and building.
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Nqumakhwe-Athenkosi&show_icons=true&hide_border=true&count_private=true"
-  alt="Athenkosi's GitHub statistics"
-/>
+My current public work covers:
 
-<br>
+- Full-stack web development
+- Java and Spring Boot
+- Android development
+- Python and machine learning
+- Firebase and databases
+- Software-defined networking
+- Research-focused Python work
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nqumakhwe-Athenkosi&layout=compact&hide_border=true"
-  alt="Most used languages"
-/>
+You can explore my pinned repositories below for the projects I am currently most proud of.
 
-<br>
-
-<img
-  src="https://streak-stats.demolab.com?user=Nqumakhwe-Athenkosi&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-</div>
+➡️ [View all my repositories](https://github.com/Nqumakhwe-Athenkosi?tab=repositories)
 
 ---
 
